@@ -49,7 +49,7 @@ class Game extends Component {
 
   
   
-  render(){
+  render(){ 
  const value1 = Math.floor(Math.random() * 100);
 const value2 = Math.floor(Math.random() * 100);
 const value3 = Math.floor(Math.random() * 100);
